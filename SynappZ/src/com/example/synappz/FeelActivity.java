@@ -9,7 +9,7 @@ public class FeelActivity extends Activity {
 		protected void onCreate(Bundle savedInstanceState) {
 			// TODO Auto-generated method stub
 			super.onCreate(savedInstanceState);
-			setContentView(R.layout.cactivity_feelscreen);
+			setContentView(R.layout.activity_feelscreen);
 		}
 
 }
